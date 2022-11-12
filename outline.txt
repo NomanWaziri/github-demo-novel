@@ -1,2 +1,5 @@
 Chapter 1
-- We meet Nick, Tom, Daisy, and Jordan and "New text"
+- We meet Nick, Tom, Daisy, 
+
+Capter 2:
+and Jordan and "New text"
