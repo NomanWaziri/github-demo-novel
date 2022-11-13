@@ -2,3 +2,5 @@
 Added some more to chapter 2 \
 why whole text replaced
 Now this text should be added with updating the whole text in diff view since i added a new line before the previos commit
+
+some more info part of same commit
